@@ -8,8 +8,8 @@ function App() {
       <>
       <Route path="/" element={<Register />} />
       <Route path="/unicode_lp_task_2" element={<Register />} />
-      <Route path="/signup" element={<Register />} />
-      <Route path="/login" element={<Login />} />
+      <Route path="unicode_lp_task_2/signup" element={<Register />} />
+      <Route path="unicode_lp_task_2/login" element={<Login />} />
       </>
     )
   )
