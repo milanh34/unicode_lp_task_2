@@ -65,7 +65,7 @@ function Login(){
                                 <p className="text-sm inline-block text-red-400">{errorPass}</p>
                             </div>
                             <button type="submit" className="w-full text-white focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-5 py-2.5 text-center bg-blue-600 hover:bg-blue-700 focus:ring-blue-800">Login</button>
-                            <p className="text-sm font-light text-gray-400">Don’t have an account yet? <Link to="/signup" className="font-medium hover:underline text-blue-500">Sign Up here</Link></p>
+                            <p className="text-sm font-light text-gray-400">Don’t have an account yet? <Link to="/unicode_lp_task_2/signup" className="font-medium hover:underline text-blue-500">Sign Up here</Link></p>
                         </form>
                     </div>
                 </div>
