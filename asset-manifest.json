@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unicode_lp_task_2/static/css/main.e6c13ad2.css",
+    "main.js": "/unicode_lp_task_2/static/js/main.722dfc22.js",
+    "static/js/787.1a09bfc8.chunk.js": "/unicode_lp_task_2/static/js/787.1a09bfc8.chunk.js",
+    "index.html": "/unicode_lp_task_2/index.html",
+    "main.e6c13ad2.css.map": "/unicode_lp_task_2/static/css/main.e6c13ad2.css.map",
+    "main.722dfc22.js.map": "/unicode_lp_task_2/static/js/main.722dfc22.js.map",
+    "787.1a09bfc8.chunk.js.map": "/unicode_lp_task_2/static/js/787.1a09bfc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.722dfc22.js"
+  ]
+}
